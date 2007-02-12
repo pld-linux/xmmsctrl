@@ -1,6 +1,6 @@
 # TODO: optflags
 Summary:	Command line control utiity for XMMS
-Summary(pl.UTF-8):   Działające z linii poleceń narzędzie sterujące programem XMMS
+Summary(pl.UTF-8):	Działające z linii poleceń narzędzie sterujące programem XMMS
 Name:		xmmsctrl
 Version:	1.8
 Release:	1
