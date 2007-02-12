@@ -1,6 +1,6 @@
 # TODO: optflags
 Summary:	Command line control utiity for XMMS
-Summary(pl):	Dzia³aj±ce z linii poleceñ narzêdzie steruj±ce programem XMMS
+Summary(pl.UTF-8):   DziaÅ‚ajÄ…ce z linii poleceÅ„ narzÄ™dzie sterujÄ…ce programem XMMS
 Name:		xmmsctrl
 Version:	1.8
 Release:	1
@@ -19,13 +19,13 @@ appropriate action, e.g. if playing then pause else play. The interest
 of this is to bind keys in a window manager to have control over XMMS
 with keys that do play/next/pause, prev, control sound...
 
-%description -l pl
-xmmsctrl jest ma³ym narzêdziem pozwalaj±cym sterowaæ XMMS-em z poziomu
-wiersza poleceñ. Jego zadaniem jest sprzê¿enie z XMMS-em w celu
-sprawdzenia jego stanu oraz wykonania odpowiedniej akcji, na przyk³ad
-w³±czenie pauzy, je¶li trwa odtwarzanie, a w przeciwnym wypadku
-w³±czenie odtwarzania. Program mo¿e mieæ zastosowanie przy
-przypisywaniu klawiszy w zarz±dcy okien do sterowania XMMS-em.
+%description -l pl.UTF-8
+xmmsctrl jest maÅ‚ym narzÄ™dziem pozwalajÄ…cym sterowaÄ‡ XMMS-em z poziomu
+wiersza poleceÅ„. Jego zadaniem jest sprzÄ™Å¼enie z XMMS-em w celu
+sprawdzenia jego stanu oraz wykonania odpowiedniej akcji, na przykÅ‚ad
+wÅ‚Ä…czenie pauzy, jeÅ›li trwa odtwarzanie, a w przeciwnym wypadku
+wÅ‚Ä…czenie odtwarzania. Program moÅ¼e mieÄ‡ zastosowanie przy
+przypisywaniu klawiszy w zarzÄ…dcy okien do sterowania XMMS-em.
 
 %prep
 %setup -q
